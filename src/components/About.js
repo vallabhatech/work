@@ -195,7 +195,7 @@ const About = () => {
 
           <div className="flex items-center space-x-4">
             <a
-              href="https://www.linkedin.com/in/manojelango/"
+              href="https://www.linkedin.com/in/vallabhatech/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-90 transition"
@@ -207,7 +207,7 @@ const About = () => {
               />
             </a>
             <a
-              href="https://github.com/ManojBaasha"
+              href="https://github.com/vallabhatech/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-90 transition"
@@ -219,7 +219,7 @@ const About = () => {
               />
             </a>
             <a
-              href="https://therealmanoj.tech"
+              href="https://tinyurl.com/vpnhv/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-90 transition"
